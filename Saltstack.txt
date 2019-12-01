@@ -4,3 +4,8 @@ Moving forward, kindly ask if the material provided was helpful.
 If things hit the fan please reach out to the contributors "usikufe pekee yako" :)
 
 
+SaltStack Cheat Sheet
+This list is partly inspired by the fine lists on:
+
+http://www.xenuser.org/saltstack-cheat-sheet/
+https://github.com/saltstack/salt/wiki/Cheat-Sheet
