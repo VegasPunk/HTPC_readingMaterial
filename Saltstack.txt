@@ -9,3 +9,8 @@ This list is partly inspired by the fine lists on:
 
 http://www.xenuser.org/saltstack-cheat-sheet/
 https://github.com/saltstack/salt/wiki/Cheat-Sheet
+
+Documentation found on the Web
+SaltStack documentation: http://docs.saltstack.com/en/latest/
+Salt-Cloud: http://docs.saltstack.com/en/latest/topics/cloud/
+Jobs: http://docs.saltstack.com/en/latest/topics/jobs/
