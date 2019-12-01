@@ -1,0 +1,6 @@
+Hi guys, here are deep dives into saltstack and what it can do.
+Please find links to tutorials, cheer sheets etc.
+Moving forward, kindly ask if the material provided was helpful.
+If things hit the fan please reach out to the contributors "usikufe pekee yako" :)
+
+
